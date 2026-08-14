@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nestjs-app
+description: Helm chart cho NestJS Hello World
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
