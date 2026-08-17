@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/doanhnc/nestjs-app-code  # Thay USERNAME của bạn
-  tag: "39f623c799cf51ad5bab7068f25c2579a9883e49"
+  tag: "1d22188cebd226e147670e8851fcae01796b78a1"
   pullPolicy: Always
 
 service:
