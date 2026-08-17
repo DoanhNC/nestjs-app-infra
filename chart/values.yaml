@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/DOANHNC/nestjs-app-code  # Thay USERNAME của bạn
+  repository: ghcr.io/doanhnc/nestjs-app-code  # Thay USERNAME của bạn
   tag: "latest"
   pullPolicy: Always
 
